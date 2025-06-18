@@ -36,8 +36,7 @@ public class CinchsGlowstoneTorch
     }
 
     // Add the example block item to the building blocks tab
-    private void addCreative(BuildCreativeModeTabContentsEvent event)
-    {
+    private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if (event.getTabKey() == CreativeModeTabs.FUNCTIONAL_BLOCKS)
             event.accept(ModItems.GLOWSTONE_TORCH);
     }
