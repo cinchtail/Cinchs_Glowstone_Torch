@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cinchsglowstonetorch:block/glowstone_torch"
+  }
+}

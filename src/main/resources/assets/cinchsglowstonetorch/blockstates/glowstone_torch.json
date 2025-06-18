@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cinchsglowstonetorch:block/glowstone_torch"
+    }
+  }
+}
