@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/template_torch",
-  "textures": {
-    "torch": "cinchsglowstonetorch:block/glowstone_torch"
-  },
-  "render_type": "cutout"
-}
